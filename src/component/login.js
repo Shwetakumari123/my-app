@@ -25,7 +25,7 @@ class Login extends React.Component {
    render() {  
       return (  
          <div>  
-			 <h1> Login Screen </h1>
+			 <h1> Login screen </h1>
 				 <TextField
                     id="standard-full-width"
                     label="Enter your username"
